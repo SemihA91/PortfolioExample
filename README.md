@@ -12,19 +12,19 @@ This project is part of the IBM Fullstack Developer Course, designed to enhance 
 
 - **CSS**: Cascading Style Sheets are employed to style the webpage, ensuring a visually appealing and responsive design. The project emphasizes the use of various CSS properties for layout, colors, fonts, and positioning.
 
-- **JavaScript**: Dynamic and interactive elements are implemented using JavaScript. This includes user interactions, form validations, and any other client-side functionalities.
+- **JavaScript**: Dynamic and interactive elements are implemented using JavaScript.
 
 ### Learning Objectives
 
 - **CSS Skills Enhancement**: The project focuses on refining CSS skills, including the application of styles, responsiveness, and the use of Flexbox or Grid for layout.
 
-- **JavaScript Proficiency**: Participants are encouraged to showcase their understanding of JavaScript by incorporating features like event handling, DOM manipulation, and form validations.
+- **JavaScript Proficiency**: Participants are encouraged to showcase their understanding of JavaScript by incorporating features like event handling, form validations and dynamic layouts.
 
-- **HTML Structure and Semantics**: Emphasis is placed on creating a well-structured HTML document with proper use of semantic tags for improved accessibility and search engine optimization.
+- **HTML Structure and Semantics**: Emphasis is placed on creating a well-structured HTML document with proper use of semantic tags for improved accessibility.
 
 ## Getting Started
 
 1. Clone the repository to your local machine.
    ```
-   git clone 
+   git clone https://github.com/SemihA91/PortfolioExample.git
 2. Launch index.html in your web browser to explore.
